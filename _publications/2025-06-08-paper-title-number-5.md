@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Commercial System Reform and Structural Transformation: A Micro Perspective Analysis 商事制度改革与产业结构变迁：微观视角"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+permalink: /publication/JJYJ2022
+excerpt: '**摘要：**近年来,新企业进入逐渐成为了第三产业占比加速提升的主导力量。理论上，本文将商事制度改革引入Melitz模型，证明了市场准入办事门槛降低将促使更多新企业进入资本密集度较低的第三产业。实证上，本文验证了这一点。企业办证个数每减少1个，进入第三产业的企业占比增加约0.5个百分点；注册耗时和办证耗时的缩短也有类似的效果。进一步，本文发现商事制度改革的结构效应具有四个特征：一是主要影响消费性服务业；二是该影响主要存在于企业生命周期的最初1-3年；三是第三产业的新增企业规模相对变小；四是该效应随办事门槛降低而递减。本文的发现是稳健的，揭示了产业结构变迁具有企业进入的微观基础，而企业的持续成长，还需要深化商事制度改革。'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'Economic Journal 经济研究'
+paperurl: 'http://xilu-chen.github.io/files/JJYJ2022.pdf'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+**摘要：**近年来,新企业进入逐渐成为了第三产业占比加速提升的主导力量。理论上，本文将商事制度改革引入Melitz模型，证明了市场准入办事门槛降低将促使更多新企业进入资本密集度较低的第三产业。实证上，本文验证了这一点。企业办证个数每减少1个，进入第三产业的企业占比增加约0.5个百分点；注册耗时和办证耗时的缩短也有类似的效果。进一步，本文发现商事制度改革的结构效应具有四个特征：一是主要影响消费性服务业；二是该影响主要存在于企业生命周期的最初1-3年；三是第三产业的新增企业规模相对变小；四是该效应随办事门槛降低而递减。本文的发现是稳健的，揭示了产业结构变迁具有企业进入的微观基础，而企业的持续成长，还需要深化商事制度改革。
