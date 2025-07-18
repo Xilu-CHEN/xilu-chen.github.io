@@ -1,11 +1,11 @@
 ---
-title: "The U-Shaped Impact of Digital Government Development on Income Inequality: Global Evidence 数字政府影响收入差距的U型模式：来自全球的证据"
+title: "数字政府影响收入差距的U型模式：来自全球的证据"
 collection: publications
 category: chinese
 permalink: /publication/JJLLYJJGL2024
 excerpt: '**摘要：**本文系统讨论了数字政府建设对收入差距的影响。理论上，数字政府建设会因企业获取政务服务能力的差异而对收入差距产生异质性影响。实证上，本文基于2007年至2019年全球158个经济体的数据，使用历史出生率构建工具变量，揭示了数字政府建设对收入差距影响的U型模式：若数字政府建设水平已较高，则进一步的建设会扩大收入差距；若建设水平较低，则结论相反。在数字政府建设过程中，中国应着重提升数字技术覆盖面和服务精准度，深化数字技术在再分配过程中的应用。'
 date: 2024-07-01
-venue: 'Economic Theory and Business Management 经济理论与经济管理'
+venue: '《经济理论与经济管理》'
 paperurl: 'http://xilu-chen.github.io/files/JJLLYJJGL2024.pdf'
 ---
 
