@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of CHEN Xilu's personal website. I am currently a postdoctoral fellow in Sun Yat-sen University. My research fields include Chinese economy, structural transformation, and economic growth.
+This is the front page of CHEN Xilu's personal website. 
+
+I am currently a postdoctoral fellow in Sun Yat-sen University. 
+
+My research fields include Chinese economy, structural transformation, and economic growth.
