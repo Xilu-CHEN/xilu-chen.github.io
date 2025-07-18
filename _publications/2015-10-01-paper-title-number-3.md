@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "A Forensic Examination of China’s National Accounts"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/BPEA2019
+excerpt: '**Abstract:** China’s national accounts are based on data collected by local governments. However, because local governments are rewarded for meeting growth and investment targets, they have an incentive to skew local statistics. China’s National Bureau of Statistics (NBS) adjusts the data provided by local governments to calculate GDP at the national level. The adjustments made by the NBS have averaged about 5 percent of GDP since the mid-2000s. On the production side, the discrepancy between local and aggregate GDP is entirely driven by the gap between local and national estimates of industrial output. On the expenditure side, the gap is in investment. Local statistics increasingly misrepresent the true numbers after 2008, but there was no corresponding change in the adjustment made by the NBS. Using publicly available data, we provide revised estimates of local and national GDP by reestimating the output of firms in the industrial, construction, and wholesale and retail trade sectors, using data on value-added taxes. We also use several local economic indicators that are less likely to be manipulated by local governments to estimate local and aggregate GDP. These estimates also suggest that the adjustments by the NBS have been insufficient since 2008. Relative to the official numbers, we estimate that GDP growth from 2010 to 2016 was about 1.8 percentage points lower and that the investment and savings rate in 2016 was about 7 percentage points lower.'
+date: 2019-03-01
+venue: 'Brookings Papers on Economic Activity'
+paperurl: 'http://xilu-chen.github.io/files/BPEA2019.pdf'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: China’s national accounts are based on data collected by local governments. However, because local governments are rewarded for meeting growth and investment targets, they have an incentive to skew local statistics. China’s National Bureau of Statistics (NBS) adjusts the data provided by local governments to calculate GDP at the national level. The adjustments made by the NBS have averaged about 5 percent of GDP since the mid-2000s. On the production side, the discrepancy between local and aggregate GDP is entirely driven by the gap between local and national estimates of industrial output. On the expenditure side, the gap is in investment. Local statistics increasingly misrepresent the true numbers after 2008, but there was no corresponding change in the adjustment made by the NBS. Using publicly available data, we provide revised estimates of local and national GDP by reestimating the output of firms in the industrial, construction, and wholesale and retail trade sectors, using data on value-added taxes. We also use several local economic indicators that are less likely to be manipulated by local governments to estimate local and aggregate GDP. These estimates also suggest that the adjustments by the NBS have been insufficient since 2008. Relative to the official numbers, we estimate that GDP growth from 2010 to 2016 was about 1.8 percentage points lower and that the investment and savings rate in 2016 was about 7 percentage points lower.
