@@ -2,7 +2,7 @@
 title: "Intermediate Macroeconomics"
 collection: teaching
 type: "Undergraduate Course for Year 2 Students"
-permalink: /teaching/intermediate macroeconomics
+permalink: /teaching/intermediate_macroeconomics
 venue: "Lingnan College, Sun Yat-sen University"
 date: 2024-01-01 
 location: "Guangzhou, China"
