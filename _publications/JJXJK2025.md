@@ -11,4 +11,4 @@ paperurl: 'http://xilu-chen.github.io/files/JJXJK2025.pdf'
 
 **摘要：**本文考察政府优化辖区营商环境的内在决定因素。在理论上，本文证明，营商环境是政务服务市场和要素市场一般均衡的结果；政务服务能力将通过成本效应、服务效应和挤出效应等三个效应影响辖区营商环境。在实证上，本文把“高效办成一件事”改革视为政府提升政务服务能力的一个准自然实验，采用2018年至2023年中国营商环境企业调查样本，验证了理论模型的成本效应。本文的发现揭示出不断提高政务服务能力才能持续优化营商环境。
 
-This paper can be downloaded from: "http://xilu-chen.github.io/files/JJXJK2025.pdf"
+This paper can be downloaded from: <http://xilu-chen.github.io/files/JJXJK2025.pdf>
