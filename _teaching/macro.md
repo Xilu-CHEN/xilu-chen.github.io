@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Guangzhou, China"
 ---
 
-I taught this course in the spring semester from 2023 to 2024. 
+I taught this course in the spring semester from 2023 to 2024. My course evaluation ranked in the top 35% of the college in both 2023 and 2024.
