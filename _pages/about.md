@@ -7,12 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Brief Introduction
-======
+* I am currently a postdoctoral fellow in Sun Yat-sen University. 
 
-I am currently a postdoctoral fellow in Sun Yat-sen University. 
-
-My research fields include Chinese economy, structural transformation, and economic growth.
+* My research fields include Chinese economy, structural transformation, and economic growth.
 
 Education
 ======
