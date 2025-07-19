@@ -8,4 +8,4 @@ date: 2024-01-01
 location: "Guangzhou, China"
 ---
 
-I taught this course in the spring semester from 2022 to 2024. I ranked top 2% in the college and top 7% in the university in the course evaluation in 2024 Spring.
+I taught this course in the spring semester from 2022 to 2024. My course evaluation ranked in the top 7% of university and top 2% of college in 2024 Spring.
