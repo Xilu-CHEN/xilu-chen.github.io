@@ -22,7 +22,8 @@ Education
 
 Work experience
 ======
-* Postdoctoral Fellow and Assistant Professor, Sun Yat-sen University, 2021 Nov - 2024 Nov
+* Assistant Professor, School of Economics, Jinan University, 2025 Sep - Present
+* Postdoctoral Fellow and Assistant Professor, Lingnan College, Sun Yat-sen University, 2021 Nov - 2024 Nov
   * Supervisor: Xianxiang Xu
   
 Publications
