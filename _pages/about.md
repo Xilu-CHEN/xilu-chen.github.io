@@ -7,22 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a postdoctoral fellow in Sun Yat-sen University. 
+* I am currently an assistant professor in School of Economics at Jinan University. 
 
 * My research fields include macroeconomics, Chinese economy, structural transformation, and economic growth.
 
 Education
 ======
-* Ph.D in Economics, The Chinese University of Hong Kong, 2021
+* Ph.D in Economics, The Chinese University of Hong Kong, 2021 Aug
   * Supervisor: Zheng (Michael) Song, Yip Chong Kee
-* M.Phil. in Economics, The Chinese University of Hong Kong, 2015
+* M.Phil. in Economics, The Chinese University of Hong Kong, 2015 Aug
   * Supervisor: Yip Chong Kee
-* Bachelor in Economics, Sun Yat-sen University, 2013
+* Bachelor in Economics, Sun Yat-sen University, 2013 Jun
   * Supervisor: Xianxiang Xu
 
 Work experience
 ======
-* Postdoctoral Fellow and Assistant Professor, Sun Yat-sen University, 2021-2024
+* Postdoctoral Fellow and Assistant Professor, Sun Yat-sen University, 2021 Nov - 2024 Nov
   * Supervisor: Xianxiang Xu
   
 Publications
