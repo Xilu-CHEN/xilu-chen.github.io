@@ -9,21 +9,21 @@ redirect_from:
 
 * I am currently an assistant professor in School of Economics at Jinan University. 
 
-* My research fields include macroeconomics, Chinese economy, structural transformation, and economic growth.
+* My research focuses on macroeconomics, the Chinese economy, structural transformation, and economic growth.
 
 Education
 ======
-* Ph.D in Economics, The Chinese University of Hong Kong, 2021 Aug
+* Ph.D in Economics, The Chinese University of Hong Kong, 2015–2021 
   * Supervisor: Zheng (Michael) Song, Yip Chong Kee
-* M.Phil. in Economics, The Chinese University of Hong Kong, 2015 Aug
+* M.Phil. in Economics, The Chinese University of Hong Kong, 2013–2015 
   * Supervisor: Yip Chong Kee
-* Bachelor in Economics, Sun Yat-sen University, 2013 Jun
+* Bachelor in Economics, Sun Yat-sen University, 2009–2013 
   * Supervisor: Xianxiang Xu
 
 Work experience
 ======
-* Assistant Professor, School of Economics, Jinan University, 2025 Sep - Present
-* Postdoctoral Fellow and Assistant Professor, Lingnan College, Sun Yat-sen University, 2021 Nov - 2024 Nov
+* Assistant Professor, School of Economics, Jinan University, 2025–Present
+* Postdoctoral Fellow and Assistant Professor, Lingnan College, Sun Yat-sen University, 2021–2024
   * Supervisor: Xianxiang Xu
   
 Publications
