@@ -7,3 +7,5 @@ venue: Jinan University, School of Economics
 date: 2026-03-09
 location: Guangdong, China
 ---
+
+Course Syllabus 课程大纲
