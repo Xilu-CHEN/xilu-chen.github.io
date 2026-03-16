@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently an assistant professor in School of Economics at Jinan University. 
+* I am currently a lecturer in School of Economics at Jinan University. 
 
 * My research focuses on macroeconomics, the Chinese economy, structural transformation, and economic growth.
 
@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-* Assistant Professor, School of Economics, Jinan University, 2025–Present
+* Lecturer, School of Economics, Jinan University, 2025–Present
 * Postdoctoral Fellow and Assistant Professor, Lingnan College, Sun Yat-sen University, 2021–2024
   * Supervisor: Xianxiang Xu
   
