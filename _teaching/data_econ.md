@@ -13,3 +13,5 @@ location: Guangdong, China
 [Slides for the First Chapter 第一章课程幻灯片](/files/teaching_data_econ/《数据经济学》第1章.pdf)
 
 [Slides for the Second Chapter 第二章课程幻灯片](/files/teaching_data_econ/《数据经济学》第2章.pdf)
+
+[Slides for the Third Chapter 第三章课程幻灯片](/files/teaching_data_econ/《数据经济学》第3章.pdf)
