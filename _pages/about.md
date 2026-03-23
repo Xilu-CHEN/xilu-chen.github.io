@@ -29,15 +29,13 @@ Work experience
 Publications
 ======
 
-  <ul>{% assign english_pubs = site.publications | where: "category", "manuscripts" %}
-  {% for post in english_pubs %}
+  <ul>{% for post in site.publications reversed | where: "category", "manuscripts" %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  <ul>{% assign chinese_pubs = site.publications | where: "category", "chinese" %}
-  {% for post in chinese_pubs %}
+  <ul>{% for post in site.publications reversed | where: "category", "chinese" %}
     {% include archive-single-cv.html %}
-  
+  {% endfor %}</ul>
   
 Teaching
 ======
