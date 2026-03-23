@@ -1,5 +1,5 @@
 ---
-title: "Economic Growth and Structural Transformation"
+title: "Economic Growth and Structural Transformation 经济增长与转型"
 collection: teaching
 type: "PhD Course for Year 2 Students"
 permalink: /teaching/growth
