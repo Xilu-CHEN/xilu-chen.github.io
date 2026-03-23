@@ -4,7 +4,6 @@ collection: teaching
 type: "PhD Course for Year 2 Students"
 permalink: /teaching/growth
 venue: "Lingnan College, Sun Yat-sen University"
-date: 2022-01-01 
 location: "Guangzhou, China"
 ---
 
