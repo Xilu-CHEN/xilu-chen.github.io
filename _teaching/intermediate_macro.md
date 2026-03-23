@@ -1,5 +1,5 @@
 ---
-title: "Intermediate Macroeconomics"
+title: "Intermediate Macroeconomics 中级宏观经济学"
 collection: teaching
 type: "Undergraduate Course for Year 2 Students"
 permalink: /teaching/intermediate_macroeconomics
