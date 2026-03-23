@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate Course for Year 1 Students"
 permalink: /teaching/macroeconomics
 venue: "Lingnan College, Sun Yat-sen University"
+date: 2023-01-01
 location: "Guangzhou, China"
 ---
 
