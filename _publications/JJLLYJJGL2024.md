@@ -1,5 +1,5 @@
 ---
-title: "徐现祥、周荃、葛尔奇*、陈希路：《数字政府影响收入差距的 U 型模式：来自全球的证据》，《经济理论与经济管理》，2024年第7期。"
+title: "徐现祥、周荃、葛尔奇&#42;、**陈希路**：《数字政府影响收入差距的 U 型模式：来自全球的证据》，《经济理论与经济管理》，2024年第7期。"
 collection: publications
 category: chinese
 permalink: /publication/JJLLYJJGL2024
