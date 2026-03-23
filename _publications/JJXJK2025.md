@@ -1,5 +1,5 @@
 ---
-title: "徐现祥、李粤麟、陈希路*：《营商环境的决定因素：基于政务服务能力的视角》，《经济学（季刊）》，2025年第2期。"
+title: "徐现祥、李粤麟、**陈希路**&#42;：《营商环境的决定因素：基于政务服务能力的视角》，《经济学（季刊）》，2025年第2期。"
 collection: publications
 category: chinese
 permalink: /publication/JJXJK2025
