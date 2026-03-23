@@ -1,5 +1,5 @@
 ---
-title: "Macroeconomics"
+title: "Macroeconomics 宏观经济学"
 collection: teaching
 type: "Undergraduate Course for Year 1 Students"
 permalink: /teaching/macroeconomics
