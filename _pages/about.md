@@ -26,17 +26,19 @@ Work experience
 * Postdoctoral Fellow and Assistant Professor, Lingnan College, Sun Yat-sen University, 2021–2024
   * Supervisor: Xianxiang Xu
   
-Publications
+English Publications
 ======
 {% assign english_pubs = site.publications | where: "category", "manuscripts" %}
-{% assign chinese_pubs = site.publications | where: "category", "chinese" %}
 
 <ul>
   {% for post in english_pubs reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
-
+  
+Chinese Publications
+======
+{% assign chinese_pubs = site.publications | where: "category", "chinese" %}
 <ul>
   {% for post in chinese_pubs reversed %}
     {% include archive-single-cv.html %}
