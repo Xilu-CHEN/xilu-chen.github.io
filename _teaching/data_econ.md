@@ -17,3 +17,7 @@ location: Guangdong, China
 [Slides for the Third Chapter 第三章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第3章.pdf){:target="_blank"}
 
 [Homework 1 第一次作业](http://xilu-chen.github.io/files/teaching_data_econ/2026春第1次作业.pdf){:target="_blank"}
+
+[Slides for the Fourth Chapter 第四章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第4章.pdf){:target="_blank"}
+
+[Slides for the Fifth Chapter 第五章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第5章.pdf){:target="_blank"}
