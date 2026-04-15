@@ -23,3 +23,5 @@ location: Guangdong, China
 [Slides for the Fifth Chapter 第五章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第5章.pdf){:target="_blank"}
 
 [Slides for the Sixth Chapter 第六章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第6章.pdf){:target="_blank"}
+
+[Slides for the Seventh Chapter 第七章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第7章.pdf){:target="_blank"}
