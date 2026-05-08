@@ -31,3 +31,7 @@ location: Guangdong, China
 [Slides for the Eighth Chapter 第八章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第8章.pdf){:target="_blank"}
 
 [Slides for the Ninth Chapter 第九章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第9章.pdf){:target="_blank"}
+
+[Slides for the Tenth Chapter 第十章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第10章.pdf){:target="_blank"}
+
+[Slides for the Eleventh Chapter 第十一章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第11章.pdf){:target="_blank"}
