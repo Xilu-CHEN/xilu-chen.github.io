@@ -9,7 +9,7 @@ redirect_from:
 
 * I am currently a lecturer in School of Economics at Jinan University. 
 
-* My research focuses on macroeconomics, the Chinese economy, structural transformation, and economic growth.
+* My research focuses on macroeconomics, the Chinese economy, structural transformation, economic growth, and commercial system reform.
 
 Education
 ======
