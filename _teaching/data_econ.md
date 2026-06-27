@@ -40,6 +40,12 @@ location: Guangdong, China
 
 [Homework 3 第三次作业](http://xilu-chen.github.io/files/teaching_data_econ/2026春第3次作业.pdf){:target="_blank"}
 
+[Homework 1 Solution 第一次作业评讲](http://xilu-chen.github.io/files/teaching_data_econ/第1次作业评讲.pdf){:target="_blank"}
+
+[Homework 2 Solution 第二次作业评讲](http://xilu-chen.github.io/files/teaching_data_econ/第2次作业评讲.pdf){:target="_blank"}
+
+[Homework 3 Solution 第三次作业评讲](http://xilu-chen.github.io/files/teaching_data_econ/第3次作业评讲.pdf){:target="_blank"}
+
 
 
 
