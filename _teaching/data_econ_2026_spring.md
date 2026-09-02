@@ -1,5 +1,5 @@
 ---
-title: Data Economics 数据经济学
+title: Data Economics 数据经济学 2026年春季学期
 collection: teaching
 type: Undergraduate Course for Year 2 Students
 permalink: /teaching/2026-spring-data-econ
