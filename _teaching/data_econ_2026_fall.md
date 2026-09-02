@@ -8,7 +8,7 @@ date: 2026-09-01
 location: Guangdong, China
 ---
 
-[Course Syllabus 课程大纲](http://xilu-chen.github.io/files/teaching_data_econ/2026秋教学大纲.pdf){:target="_blank"}
+[Course Syllabus 课程大纲](http://xilu-chen.github.io/files/teaching_data_econ_2026_fall/2026秋教学大纲.pdf){:target="_blank"}
 
 
 
