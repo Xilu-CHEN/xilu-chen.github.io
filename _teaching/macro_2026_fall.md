@@ -4,7 +4,7 @@ collection: teaching
 type: Undergraduate Course for Year 2 Students
 permalink: /teaching/2026-fall-macro
 venue: Jinan University, School of Economics
-date: 2026-08-31
+date: 2026-08-01
 location: Guangdong, China
 ---
 
