@@ -8,43 +8,43 @@ date: 2026-01-01
 location: Guangdong, China
 ---
 
-[Course Syllabus 课程大纲](http://xilu-chen.github.io/files/teaching_data_econ/2026春教学大纲.pdf){:target="_blank"}
+[Course Syllabus 课程大纲](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/2026春教学大纲.pdf){:target="_blank"}
 
-[Slides for the First Chapter 第一章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第1章.pdf){:target="_blank"}
+[Slides for the First Chapter 第一章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第1章.pdf){:target="_blank"}
 
-[Slides for the Second Chapter 第二章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第2章.pdf){:target="_blank"}
+[Slides for the Second Chapter 第二章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第2章.pdf){:target="_blank"}
 
-[Slides for the Third Chapter 第三章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第3章.pdf){:target="_blank"}
+[Slides for the Third Chapter 第三章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第3章.pdf){:target="_blank"}
 
-[Homework 1 第一次作业](http://xilu-chen.github.io/files/teaching_data_econ/2026春第1次作业.pdf){:target="_blank"}
+[Homework 1 第一次作业](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/2026春第1次作业.pdf){:target="_blank"}
 
-[Slides for the Fourth Chapter 第四章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第4章.pdf){:target="_blank"}
+[Slides for the Fourth Chapter 第四章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第4章.pdf){:target="_blank"}
 
-[Slides for the Fifth Chapter 第五章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第5章.pdf){:target="_blank"}
+[Slides for the Fifth Chapter 第五章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第5章.pdf){:target="_blank"}
 
-[Slides for the Sixth Chapter 第六章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第6章.pdf){:target="_blank"}
+[Slides for the Sixth Chapter 第六章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第6章.pdf){:target="_blank"}
 
-[Homework 2 第二次作业](http://xilu-chen.github.io/files/teaching_data_econ/2026春第2次作业.pdf){:target="_blank"}
+[Homework 2 第二次作业](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/2026春第2次作业.pdf){:target="_blank"}
 
-[Slides for the Seventh Chapter 第七章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第7章.pdf){:target="_blank"}
+[Slides for the Seventh Chapter 第七章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第7章.pdf){:target="_blank"}
 
-[Slides for the Eighth Chapter 第八章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第8章.pdf){:target="_blank"}
+[Slides for the Eighth Chapter 第八章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第8章.pdf){:target="_blank"}
 
-[Slides for the Ninth Chapter 第九章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第9章.pdf){:target="_blank"}
+[Slides for the Ninth Chapter 第九章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第9章.pdf){:target="_blank"}
 
-[Slides for the Tenth Chapter 第十章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第10章.pdf){:target="_blank"}
+[Slides for the Tenth Chapter 第十章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第10章.pdf){:target="_blank"}
 
-[Slides for the Eleventh Chapter 第十一章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第11章.pdf){:target="_blank"}
+[Slides for the Eleventh Chapter 第十一章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第11章.pdf){:target="_blank"}
 
-[Slides for the Twelfth Chapter 第十二章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ/《数据经济学》第12章.pdf){:target="_blank"}
+[Slides for the Twelfth Chapter 第十二章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/《数据经济学》第12章.pdf){:target="_blank"}
 
-[Homework 3 第三次作业](http://xilu-chen.github.io/files/teaching_data_econ/2026春第3次作业.pdf){:target="_blank"}
+[Homework 3 第三次作业](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/2026春第3次作业.pdf){:target="_blank"}
 
-[Homework 1 Solution 第一次作业评讲](http://xilu-chen.github.io/files/teaching_data_econ/第1次作业评讲.pdf){:target="_blank"}
+[Homework 1 Solution 第一次作业评讲](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/第1次作业评讲.pdf){:target="_blank"}
 
-[Homework 2 Solution 第二次作业评讲](http://xilu-chen.github.io/files/teaching_data_econ/第2次作业评讲.pdf){:target="_blank"}
+[Homework 2 Solution 第二次作业评讲](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/第2次作业评讲.pdf){:target="_blank"}
 
-[Homework 3 Solution 第三次作业评讲](http://xilu-chen.github.io/files/teaching_data_econ/第3次作业评讲.pdf){:target="_blank"}
+[Homework 3 Solution 第三次作业评讲](http://xilu-chen.github.io/files/teaching_data_econ_2026_spring/第3次作业评讲.pdf){:target="_blank"}
 
 
 
