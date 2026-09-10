@@ -14,6 +14,7 @@ location: Guangdong, China
 
 [Slides for the Second Chapter 第二章课程幻灯片](http://xilu-chen.github.io/files/teaching_data_econ_2026_fall/《数据经济学》第2章.pdf){:target="_blank"}
 
+[Homework 1 第一次作业](http://xilu-chen.github.io/files/teaching_data_econ_2026_fall/数据经济学第1次作业.pdf){:target="_blank"}
 
 
 
