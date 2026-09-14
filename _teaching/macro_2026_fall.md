@@ -17,6 +17,8 @@ excerpt: '[Course Syllabus 课程大纲](http://xilu-chen.github.io/files/.../20
 
 [Homework 1 第1次作业](http://xilu-chen.github.io/files/teaching_macro_2026_fall/宏观经济学第1次作业.pdf){:target="_blank"}
 
+[Slides for the Third Chapter 第三章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第3章.pdf){:target="_blank"}
+
 
 
 
