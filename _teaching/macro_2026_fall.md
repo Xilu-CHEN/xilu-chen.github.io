@@ -21,5 +21,8 @@ excerpt: '[Course Syllabus 课程大纲](http://xilu-chen.github.io/files/teachi
 
 [Slides for the Fourth Chapter 第四章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第4章.pdf){:target="_blank"}
 
+[Slides for the Fifth Chapter 第五章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第5章.pdf){:target="_blank"}
+
+
 
 
