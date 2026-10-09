@@ -27,6 +27,7 @@ excerpt: '[Course Syllabus 课程大纲](http://xilu-chen.github.io/files/teachi
 
 [Slides for the Seventh Chapter 第七章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第7章.pdf){:target="_blank"}
 
+[Homework 3 第3次作业](http://xilu-chen.github.io/files/teaching_macro_2026_fall/宏观经济学第3次作业.pdf){:target="_blank"}
 
 
 
