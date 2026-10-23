@@ -31,5 +31,21 @@ excerpt: '[Course Syllabus 课程大纲](http://xilu-chen.github.io/files/teachi
 
 [Slides for the Tenth Chapter 第十章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第10章.pdf){:target="_blank"}
 
+[Slides for the Eleventh Chapter 第十一章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第11章.pdf){:target="_blank"}
+
+[Homework 4 第4次作业](http://xilu-chen.github.io/files/teaching_macro_2026_fall/宏观经济学第4次作业.pdf){:target="_blank"}
+
+[Slides for the Twelfth Chapter 第十二章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第12章.pdf){:target="_blank"}
+
+[Slides for the Sixth Chapter 第六章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第6章.pdf){:target="_blank"}
+
+[Homework 5 第5次作业](http://xilu-chen.github.io/files/teaching_macro_2026_fall/宏观经济学第5次作业.pdf){:target="_blank"}
+
+[Slides for the Thirteenth Chapter 第十三章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第13章.pdf){:target="_blank"}
+
+[Slides for the Fourteenth Chapter 第十四章课程幻灯片](http://xilu-chen.github.io/files/teaching_macro_2026_fall/《宏观经济学》第14章.pdf){:target="_blank"}
+
+[Homework 6 第6次作业](http://xilu-chen.github.io/files/teaching_macro_2026_fall/宏观经济学第6次作业.pdf){:target="_blank"}
+
 
 
